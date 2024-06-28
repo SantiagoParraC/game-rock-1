@@ -10,7 +10,6 @@
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuyendo](#contribuyendo)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
 
