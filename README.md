@@ -1,2 +1,2 @@
 # game-rock-1
-Rock, Paper, Sisors with animation
+Rock, Paper, Sissors with animation
