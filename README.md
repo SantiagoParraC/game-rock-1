@@ -62,4 +62,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 - **Nombre:** Santiago Parra Caicedo
 - **Correo Electrónico:** sannurjai0408@gmail.com
-- **GitHub:** [tuusuario](https://SantiagoParrac/tuusuario)
+- **GitHub:** [SantiagoParraC](https://SantiagoParrac/tuusuario)
